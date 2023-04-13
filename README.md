@@ -18,4 +18,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pedrooruass&show_icons=true&theme=dracula&locale=en" alt="pedrooruass" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pedrooruass&theme=default" alt="pedrooruass" /></p>

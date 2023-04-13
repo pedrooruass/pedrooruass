@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Flutter and Dart**
 
-- 📫 How to reach me **Linkedin: Pedro Ruas.**
+- 📫 How to reach me, **Linkedin: Pedro Ruas.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

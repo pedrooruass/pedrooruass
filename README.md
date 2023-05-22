@@ -1,10 +1,9 @@
-'''         ____       _   ____  _                _            _ 
+```      ____       _   ____  _                _            _ 
   _   _ / ___| ___ | |_/ ___|| |__   __ _ _ __| | _____  __| |
  | | | | |  _ / _ \| __\___ \| '_ \ / _` | '__| |/ / _ \/ _` |
  | |_| | |_| | (_) | |_ ___) | | | | (_| | |  |   <  __/ (_| |
   \__,_|\____|\___/ \__|____/|_| |_|\__,_|_|  |_|\_\___|\__,_|
-                                                              
-                                                              '''
+```
 <h1 align="center">Hi 👋, I'm Pedro Ruas</h1>
 <h3 align="center">A passionate mobile developer from Brazil</h3>                                                                                                                   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pedrooruass&label=Profile%20views&color=0e75b6&style=flat" alt="pedrooruass" /> </p>

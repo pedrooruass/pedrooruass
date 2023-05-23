@@ -1,18 +1,14 @@
 ```
-              .oooooo.                  .    .oooooo..o oooo                           oooo                        .o8  
-             d8P'  `Y8b               .o8   d8P'    `Y8 `888                           `888                       "888  
-oooo  oooo  888            .ooooo.  .o888oo Y88bo.       888 .oo.    .oooo.   oooo d8b  888  oooo   .ooooo.   .oooo888  
-`888  `888  888           d88' `88b   888    `"Y8888o.   888P"Y88b  `P  )88b  `888""8P  888 .8P'   d88' `88b d88' `888  
- 888   888  888     ooooo 888   888   888        `"Y88b  888   888   .oP"888   888      888888.    888ooo888 888   888  
- 888   888  `88.    .88'  888   888   888 . oo     .d8P  888   888  d8(  888   888      888 `88b.  888    .o 888   888  
- `V88V"V8P'  `Y8bood8P'   `Y8bod8P'   "888" 8""88888P'  o888o o888o `Y888""8o d888b    o888o o888o `Y8bod8P' `Y8bod88P" 
-                                                                                                                        
-                                                                                                                        
-                                                                                                                        
-                                                                
+                                                                                                       
+                      //   ) )                  //   ) )                                                        
+                     //         ___    __  ___ ((        / __      ___      __     / ___      ___      ___   /  
+           //   / / //  ____  //   ) )  / /      \\     //   ) ) //   ) ) //  ) ) //\ \     //___) ) //   ) /   
+          //   / / //    / / //   / /  / /         ) ) //   / / //   / / //      //  \ \   //       //   / /    
+         ((___( ( ((____/ / ((___/ /  / /   ((___ / / //   / / ((___( ( //      //    \ \ ((____   ((___/ /                                     
 ```
 <h1 align="center">Hi 👋, I'm Pedro Ruas</h1>
-<h3 align="center">A passionate mobile developer from Brazil</h3>                                                                                                                   
+<h3 align="center">A passionate mobile developer from Brazil</h3>                                                                                             
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pedrooruass&label=Profile%20views&color=0e75b6&style=flat" alt="pedrooruass" /> </p>
 
 - 🌱 I’m currently learning **Python, Java and Advanced Flutter**
